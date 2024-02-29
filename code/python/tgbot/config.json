@@ -1,0 +1,6 @@
+{
+"ping_amount" : 10,
+"min_time_to_send_message" : 0.5,
+"max_time_to_send_message" : 3,
+"admins" : [532479384, 849269148]
+}
